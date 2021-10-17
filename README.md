@@ -4,4 +4,4 @@
 
 kode tag untuk paragraf adalah '<p>'
 Ini adalah tampilannya
-![img]Screenshot/ss1.png
+![gambar1](Screenshot/ss1.png)
